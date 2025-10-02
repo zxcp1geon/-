@@ -74,7 +74,7 @@ image example = Movie(play="123.webm",  size=(1920,1080))
 image chast = Movie(play='image/video/chast.webm', size=(1920, 1080))
 
 label start:
-    $ renpy.movie_cutscene('images/123.webm')
+   
     #Играем в маинкрафт и звук добывания блоков
     #звук будилника
     scene dayone with fade
@@ -1430,6 +1430,7 @@ label fiveday:
 
         
         
+
 
 
 
